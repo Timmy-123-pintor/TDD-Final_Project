@@ -13,8 +13,7 @@ body {
 .details {
     margin-bottom: -10px;
     display: flex;
-    justify-content: top;
-    align-items: top;
+    vertical-align: middle;
 }
 
 
@@ -52,8 +51,8 @@ body {
 .details-two {
     margin-bottom: -10px;
     display: flex;
-    justify-content: top;
-    align-items: top;
+    justify-content: CENTER;
+    align-items: middle;
 }
 
 .r {
@@ -62,8 +61,8 @@ body {
 }
 
 .search-field {
-    margin-left: 25px;
-    margin-top: 7px;
+    margin-left: 100px;
+    margin-top: 6  px;
     border: 0px;
     border-radius: 5px;
     height: 25px;
@@ -71,7 +70,7 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
-.cart {
+.cart { 
   margin-left: 9px;
   margin-top: 10px;
 }

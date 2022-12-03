@@ -16,7 +16,7 @@ const ProductPage = () => {
     </b></div>
     <div className="details">
       <td>
-      <h2 className="ghost"> Ghost </h2>
+      <h2 className="ghost"> SACK-O </h2>
       </td>
       <td>
         <h4 className="help">Help</h4>
@@ -26,7 +26,7 @@ const ProductPage = () => {
       </td>
 
       <td>
-        <h4 className="ghost-com">Ghost.com</h4>
+        <h4 className="ghost-com">Sack-o.com</h4>
       </td>
     </div>
 
@@ -34,19 +34,13 @@ const ProductPage = () => {
 
     <div className="details-two">    
       <td>
-      <h4 className="r"> GOODS </h4>
+      <h4 className="r"> MENS </h4>
       </td>
       <td>
-        <h4 className="r">MUSIC</h4>
+        <h4 className="r">WOMENS</h4>
       </td>
       <td>
-        <h4 className="r" >ART</h4>
-      </td>
-      <td>
-        <h4 className="r">CLOTHING</h4>
-      </td>
-      <td>
-        <h4 className="r">ACTION METHOD</h4>
+        <h4 className="r" >KIDS</h4>
       </td>
       <td>
         <h4 className="r">SALE</h4>
