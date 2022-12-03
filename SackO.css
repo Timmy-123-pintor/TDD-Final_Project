@@ -1,0 +1,172 @@
+body {
+    background-color: rgb(246, 245, 245);
+}
+
+.upper-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gainsboro;
+  height: 50px;
+}
+
+.details {
+    margin-bottom: -10px;
+    display: flex;
+    vertical-align: middle;
+}
+
+
+.productName {
+    margin-left: 10px;
+}
+
+.ghost {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.help {
+    margin-left: 900px;
+    margin-top: 0px;
+}
+
+.blog {
+    margin-left:30px;
+    margin-top: 0px;
+}
+
+.ghost-com {
+    margin-left: 30px;
+    margin-top: 0px;
+    
+}
+
+.solid {
+    border-top: 2px solid #bbb;
+    margin-top: 0px;
+    
+}
+
+.details-two {
+    margin-bottom: -10px;
+    display: flex;
+    justify-content: CENTER;
+    align-items: middle;
+}
+
+.r {
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+.search-field {
+    margin-left: 100px;
+    margin-top: 6  px;
+    border: 0px;
+    border-radius: 5px;
+    height: 25px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+}
+
+.cart { 
+  margin-left: 9px;
+  margin-top: 10px;
+}
+
+.solid-two {
+    border-top: 2px solid #bbb;
+    
+}
+
+.products {
+    height: 400px;
+    width: 1220px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.product-box-one {
+    background-color: seashell;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 360px;
+    width: 280px;
+    transition: transform .2s;
+}
+
+.product-box-one:hover {
+    transform: scale(1.1);
+}
+
+.product-one {
+    background-image: url("https://media.istockphoto.com/id/1320501530/photo/white-sneaker-on-a-blue-gradient-background-mens-fashion-sport-shoe-sneakers-lifestyle.jpg?s=612x612&w=0&k=20&c=dgnAb4BsW_O8LEPUaEurgYj82H6x7fA_OCcuBTDUVCA=");
+    margin-left: 30px;
+    margin-top: 50px;
+    size-adjust: 40px;
+    height: 200px;
+    width: 200px;
+    
+}
+
+
+
+
+
+
+
+
+
+/* h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-one-pic {
+    background-color: rgb(51, 205, 153);
+    height: 200px;
+    width: 200px;
+}
+
+.product-two-pic {
+    background-color: rgb(223, 148, 34);
+    height: 200px;
+    width: 200px;
+}
+
+.product-three-pic {
+    background-color: rgb(102, 71, 213);
+    height: 200px;
+    width: 200px;
+}
+
+.product-four-pic {
+    background-color: rgb(185, 32, 106);
+    height: 200px;
+    width: 200px;
+}
+
+.btn-buy {
+    background-color: rgb(143, 223, 245);
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.center-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  margin-left: 200px;
+  margin-right: 200px;
+  height: 500px;
+}
+
+.tr {
+    margin-top: 200px;
+} */
